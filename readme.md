@@ -25,5 +25,6 @@
 Содержание репозитория (_кликабельно_).
 
 * Тестовое задание в Sports.ru. Часть 1. [Задание 1](http://sqlfiddle.com/#!17/5d361/4465/0) и [Задание 2](http://sqlfiddle.com/#!17/5d361/4463/0)
-* Тестовое задание в Sports.ru. [Часть 2.](https://github.com/Witold1/sports_ru_test/blob/master/notebooks/task_2_python.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/Witold1/sports_ru_test/blob/master/notebooks/task_2_python.ipynb).  Note: из-за размеров output'ов лучше скачать. Там выглядит красивее. 
+* Тестовое задание в Sports.ru. [Часть 2.](https://github.com/Witold1/sports_ru_test/blob/master/notebooks/task_2_python.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/Witold1/sports_ru_test/blob/master/notebooks/task_2_python.ipynb).  
+  _Note: из-за размеров output'ов лучше скачать и открыть отдельно. Там по умолчанию свёрнуто и выглядит красивее._
 * Тестовое задание в Sports.ru. [Часть 3.](link)
