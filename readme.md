@@ -3,6 +3,21 @@
 В этом репозитории представлено тестовое задание на позицию Junior Product Analust.
 **Язык:** _RU_
 
+# СТРУКТУРА
+
+├── LICENSE
+├── README.md                 <- The top-level README.
+├── src                       <- Folder for data
+│   └── dataset_Facebook.csv
+│
+├── task                        <- Folder for task-solution file .docx and .pdf
+│   └── Product Analyst.pdf
+│   └── Product Analyst.docx
+│
+├── notebooks                   <- Folder for notebook of Часть 2.
+│   └── print_stats.py.py
+│   └── task_2_python.ipynb.py
+
 ## Тестовое задание в Sports.ru
 
 Содержание репозитория (_кликабельно_).
