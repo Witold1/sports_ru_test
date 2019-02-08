@@ -28,3 +28,5 @@
 * Тестовое задание в Sports.ru. [Часть 2.](https://github.com/Witold1/sports_ru_test/blob/master/notebooks/task_2_python.ipynb) [[nbviewer]](https://nbviewer.jupyter.org/github/Witold1/sports_ru_test/blob/master/notebooks/task_2_python.ipynb).  
   _Note: из-за размеров output'ов лучше скачать и открыть отдельно. Там по умолчанию свёрнуто и выглядит красивее._
 * Тестовое задание в Sports.ru. [Часть 3.](link)
+
+Структурированное решение в формате "задание-решение" -- [тут](https://github.com/Witold1/sports_ru_test/blob/master/task/Product%20Analyst.pdf).
